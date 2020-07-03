@@ -1,0 +1,21 @@
+{
+    "ret":true,
+    "data":{
+        "city":"北京",
+        "swiperList":[ {
+          "id": "01",
+         " imgUrl":
+            "https://imgs.qunarzz.com/vs_ceph_vs_tts/303beff5-3630-4e14-b329-884246baaa6e.jpg_r_390x260x95_f15b626b.jpg"
+        },
+        {
+          "id": "02",
+          "imgUrl":
+            "https://imgs.qunarzz.com/vs_ceph_vs_tts/f2d07a18-7eba-4de2-8720-1f62550a92be.jpg_r_390x260x95_22559dd2.jpg"
+        },
+        {
+          "id": "03",
+          "imgUrl":
+            "https://imgs.qunarzz.com/vs_ceph_vs_tts/e2035e96-5c7b-4393-96d1-e331dbfef17f.jpg_r_390x260x95_a1250249.jpg"
+        }]
+    }
+}
